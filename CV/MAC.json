@@ -45,7 +45,77 @@
           {
             "name": "Network Operations Center Technician",
             "startDate": "2022-03-01",
-            "finishDate": "2023-08-01"
+            "finishDate": "2023-08-01",
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "AWS EC2",
+                "type": "technology"
+              },
+              {
+                "name": "Aruba",
+                "type": "technology"
+              },
+              {
+                "name": "Atlassian",
+                "type": "technology"
+              },
+              {
+                "name": "Bash",
+                "type": "technology"
+              },
+              {
+                "name": "Bitbucket",
+                "type": "technology"
+              },
+              {
+                "name": "Cisco",
+                "type": "technology"
+              },
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "DNS",
+                "type": "technology"
+              },
+              {
+                "name": "Fortinet",
+                "type": "technology"
+              },
+              {
+                "name": "Google Sheets",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Office 365",
+                "type": "technology"
+              },
+              {
+                "name": "Proxmox",
+                "type": "technology"
+              },
+              {
+                "name": "Wireguard",
+                "type": "technology"
+              },
+              {
+                "name": "Wireshark",
+                "type": "technology"
+              },
+              {
+                "name": "YAML",
+                "type": "technology"
+              }
+            ]
           }
         ]
       },
