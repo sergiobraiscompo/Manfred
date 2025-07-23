@@ -409,6 +409,12 @@
           "name": "Capacidad de recibir feedback",
           "type": "practice"
         }
+      },
+      {
+        "skill": {
+          "name": "Visión crítica",
+          "type": "practice"
+        }
       }
     ]
   },
