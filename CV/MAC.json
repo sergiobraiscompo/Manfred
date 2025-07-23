@@ -113,12 +113,6 @@
     "hardSkills": [
       {
         "skill": {
-          "name": ".NET",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": ".NET Entity Framework",
           "type": "technology"
         }
@@ -138,6 +132,12 @@
       {
         "skill": {
           "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Cisco",
           "type": "technology"
         }
       },
@@ -333,11 +333,11 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": ".NET",
+        "name": ".NET Entity Framework",
         "type": "technology"
       },
       {
-        "name": ".NET Entity Framework",
+        "name": "AWS",
         "type": "technology"
       },
       {
