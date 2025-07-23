@@ -299,13 +299,110 @@
       },
       {
         "studyType": "officialDegree",
-        "degreeAchieved": true,
+        "degreeAchieved": false,
         "name": "Lemoncoders",
         "startDate": "2023-11-01",
         "institution": {
           "name": "Lemoncoders"
         },
-        "finishDate": "2025-05-01"
+        "linkedCompetences": [
+          {
+            "name": ".NET Entity Framework",
+            "type": "technology"
+          },
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "Azure",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "Express",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "GitHub Actions",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JSON",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "Mongoose",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "PostgreSQL",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "SQLServer",
+            "type": "technology"
+          },
+          {
+            "name": "Slack",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Studio",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Studio Code",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Atención al detalle",
+          "type": "practice"
+        }
       }
     ]
   },
